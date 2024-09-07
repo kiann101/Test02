@@ -1,0 +1,10 @@
+@import 'font';
+@import 'var';
+
+
+body {
+  font-family: $font;
+  font-size: 80px;
+  background-color: $dark;
+  color: $light;
+}
